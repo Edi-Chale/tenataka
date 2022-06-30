@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tenataka</title>
+    <link>https://edi-chale.github.io/tenataka/post/</link>
+    <description>Recent content in Posts on Tenataka</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://edi-chale.github.io/tenataka/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿WTF Quien po$%*? sos?</title>
+      <link>https://edi-chale.github.io/tenataka/post/2022-06-29-quiensos/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://edi-chale.github.io/tenataka/post/2022-06-29-quiensos/</guid>
+      <description>Aburrimiento total. Desde el Lunes 27 de Junio del 2022, decidi nuevamente entrar al tema de gestion de sitios web y de diseño web en general, nuevamente empezando por recordar lo que habia aprendido con Hugo, tras eso, intente recuperar mis datos de GitHub, cosa que logre, y ahora cree un nuevo repositorio para este sitio web, terminando esto como resultado.
+Tenataka va a ser una pagina de pruebas (y de blog de paso), donde estare experimentando con todo lo que puedo hacer con Hugo mientras hago contenido para el mismo, en cuanto a esto, no tengo bien definito que tipo de contenido hare aqui, salvo a eso, no tengo más razon.</description>
+    </item>
+    
+  </channel>
+</rss>
