@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://edi-chale.github.io/tenataka/</loc>
+    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url><url>
     <loc>https://edi-chale.github.io/tenataka/post/2022-06-29-quiensos/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -27,9 +31,6 @@
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://edi-chale.github.io/tenataka/tags/</loc>
-    <lastmod>2022-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://edi-chale.github.io/tenataka/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url>
 </urlset>
