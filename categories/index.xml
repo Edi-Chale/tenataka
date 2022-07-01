@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Tenataka</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://edi-chale.github.io/tenataka/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://edi-chale.github.io/tenataka/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>personal</title>
+      <link>https://edi-chale.github.io/tenataka/categories/personal/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://edi-chale.github.io/tenataka/categories/personal/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>blog</title>
       <link>https://edi-chale.github.io/tenataka/categories/blog/</link>
